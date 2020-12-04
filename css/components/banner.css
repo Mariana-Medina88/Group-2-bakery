@@ -1,0 +1,13 @@
+.banner {
+	background-image: url(../../images/banner2.jpg);
+	padding: 120px;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0px 10px 30px (0,0,0,0.1);
+	
+}
+
+.bannercontainer {
+	text-align: center;
+	color: white;
+}
